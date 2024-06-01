@@ -14,7 +14,7 @@
     "@mui/icons-material": "^5.10.3",
     "@mui/material": "^5.10.5",
     "@mui/x-data-grid": "^5.17.2",
-    "@nivo/bar": "^0.79.0",
+    "@nivo/bar": "^0.80.0",
     "@nivo/core": "^0.80.0", 
     "@nivo/geo": "^0.79.0",
     "@nivo/line": "^0.79.0",
